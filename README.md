@@ -12,7 +12,7 @@
 
 *MENTOR*: NEELA SANTOSH
 
-#DESCRIPTION ABOUT MY PROJECT 
+# DESCRIPTION ABOUT MY PROJECT 
 
 This Java program is a simple console-based file handling application that allows users to write, read, and modify the contents of a text file named data.txt. It uses core Java classes like File, FileWriter, and Scanner for performing file operations.
 
