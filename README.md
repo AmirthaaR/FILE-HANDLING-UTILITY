@@ -30,6 +30,6 @@ The writeToFile method collects user input until "exit" is typed and saves it to
 
 Error handling is included to catch and display file-related issues. Overall, the program is a beginner-friendly example of file manipulation in Java, demonstrating practical use of file streams, string replacement, and basic user interaction.
 
-#OUTPUT
+# OUTPUT
 
 <img width="440" height="605" alt="Image" src="https://github.com/user-attachments/assets/92bd9517-775d-4b3c-8779-da7f6a5e09d6" />
